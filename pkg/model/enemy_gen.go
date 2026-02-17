@@ -23,10 +23,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -51,18 +47,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -90,18 +74,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010030,
 					HpPercent: 0,
 				},
@@ -127,18 +99,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -167,18 +127,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010050,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010050,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010050,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010050,
 					HpPercent: 0,
 				},
 			},
@@ -203,18 +151,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010050,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010050,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010050,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010050,
 					HpPercent: 0,
@@ -242,18 +178,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010030,
 					HpPercent: 0,
 				},
@@ -279,18 +203,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -319,18 +231,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010050,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010050,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010050,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010050,
 					HpPercent: 0,
 				},
 			},
@@ -357,10 +257,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010013,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010013,
 					HpPercent: 0,
 				},
 			},
@@ -385,14 +281,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010013,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010033,
 					HpPercent: 0,
@@ -421,10 +309,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010015,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010015,
 					HpPercent: 0,
 				},
 			},
@@ -449,14 +333,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010015,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010035,
 					HpPercent: 0,
@@ -758,6 +634,27 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop:       []*MonsterHPDrop{},
 		},
 	},
+	29130101: {
+		Id:              29130101,
+		Key:             "thedoctor",
+		NameTextHashMap: 995770112,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  2852.64,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.1,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 1,
+			HpDrop:       []*MonsterHPDrop{},
+		},
+	},
 	20020101: {
 		Id:              20020101,
 		Key:             "eyeofthestorm",
@@ -777,14 +674,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010035,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010035,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010035,
 					HpPercent: 0,
@@ -813,18 +702,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010034,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010034,
 					HpPercent: 0,
 				},
 			},
@@ -849,18 +726,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010035,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010035,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010035,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010035,
 					HpPercent: 0,
@@ -889,18 +754,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010037,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010037,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010037,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010037,
 					HpPercent: 0,
 				},
 			},
@@ -925,14 +778,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010032,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010032,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010022,
 					HpPercent: 0,
@@ -959,14 +804,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010036,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010036,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010026,
 					HpPercent: 0,
@@ -995,18 +832,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010031,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010031,
 					HpPercent: 0,
 				},
 			},
@@ -1031,18 +856,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010033,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010033,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010033,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010023,
 					HpPercent: 0,
@@ -1071,10 +884,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010014,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010014,
 					HpPercent: 0,
 				},
 			},
@@ -1099,14 +908,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010034,
 					HpPercent: 0,
@@ -1133,14 +934,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010034,
 					HpPercent: 0,
@@ -1169,10 +962,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010016,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010016,
 					HpPercent: 0,
 				},
 			},
@@ -1197,14 +986,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010036,
 					HpPercent: 0,
@@ -1233,10 +1014,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010012,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010012,
 					HpPercent: 0,
 				},
 			},
@@ -1261,14 +1038,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010032,
 					HpPercent: 0,
@@ -1421,14 +1190,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010032,
 					HpPercent: 0,
 				},
@@ -1508,10 +1269,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010012,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010012,
 					HpPercent: 0,
 				},
 			},
@@ -1563,14 +1320,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010022,
 					HpPercent: 0,
 				},
@@ -1596,18 +1345,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010042,
 					HpPercent: 0,
@@ -1635,14 +1372,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010022,
 					HpPercent: 0,
 				},
@@ -1669,18 +1398,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010042,
 					HpPercent: 0,
 				},
@@ -1706,14 +1423,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010032,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010032,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010022,
 					HpPercent: 0,
@@ -1762,18 +1471,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010034,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010024,
 					HpPercent: 0,
 				},
@@ -1799,14 +1496,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010024,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010024,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010024,
 					HpPercent: 0,
@@ -1835,14 +1524,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010023,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010023,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010023,
 					HpPercent: 0,
 				},
 			},
@@ -1867,14 +1548,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010021,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010021,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010021,
 					HpPercent: 0,
@@ -1903,14 +1576,84 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010026,
-					HpPercent: 0.66,
+					HpPercent: 0,
 				},
+			},
+		},
+	},
+	20080501: {
+		Id:              20080501,
+		Key:             "surgingcurrentsfrostnightscion",
+		NameTextHashMap: 3514143808,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  173.8752,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.5,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.1,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 0,
+			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010026,
-					HpPercent: 0.33,
+					DropId:    22010022,
+					HpPercent: 0,
 				},
+			},
+		},
+	},
+	20080601: {
+		Id:              20080601,
+		Key:             "veiledcloudchaserfrostnightscion",
+		NameTextHashMap: 938126712,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  138.5568,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.5,
+				IceResist:      0.1,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 0,
+			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010026,
+					DropId:    22010025,
+					HpPercent: 0,
+				},
+			},
+		},
+	},
+	20080701: {
+		Id:              20080701,
+		Key:             "gildedsunshardfrostnightscion",
+		NameTextHashMap: 818684560,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  138.5568,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.1,
+				RockResist:     0.5,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 0,
+			HpDrop: []*MonsterHPDrop{
+				{
+					DropId:    22010027,
 					HpPercent: 0,
 				},
 			},
@@ -1937,18 +1680,32 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.75,
+					HpPercent: 0,
 				},
+			},
+		},
+	},
+	20081201: {
+		Id:              20081201,
+		Key:             "hexadecatonicbattlehardenedmandragora",
+		NameTextHashMap: 902723104,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  869.376,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    1.35,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.1,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 0,
+			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010030,
+					DropId:    22010043,
 					HpPercent: 0,
 				},
 			},
@@ -1973,10 +1730,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -2005,10 +1758,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -2033,10 +1782,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -2065,10 +1810,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -2093,10 +1834,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -2125,10 +1862,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -2153,10 +1886,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -2185,10 +1914,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -2213,10 +1938,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -2245,10 +1966,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -2273,10 +1990,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -2305,10 +2018,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -2333,10 +2042,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -2365,10 +2070,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010011,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010011,
 					HpPercent: 0,
 				},
 			},
@@ -2393,14 +2094,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010031,
 					HpPercent: 0,
@@ -2429,10 +2122,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -2457,14 +2146,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010017,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010037,
 					HpPercent: 0,
@@ -2492,18 +2173,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010031,
 					HpPercent: 0,
 				},
@@ -2529,18 +2198,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010036,
 					HpPercent: 0,
@@ -2568,18 +2225,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010032,
 					HpPercent: 0,
 				},
@@ -2605,18 +2250,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010034,
 					HpPercent: 0,
@@ -2644,14 +2277,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010032,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010032,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010022,
 					HpPercent: 0,
 				},
@@ -2677,14 +2302,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010036,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010036,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010026,
 					HpPercent: 0,
@@ -2712,14 +2329,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010034,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010024,
 					HpPercent: 0,
 				},
@@ -2745,14 +2354,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010031,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010021,
 					HpPercent: 0,
@@ -2781,10 +2382,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -2809,10 +2406,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010014,
 					HpPercent: 0,
@@ -2841,14 +2434,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010027,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010027,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010027,
 					HpPercent: 0,
 				},
 			},
@@ -2873,14 +2458,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010024,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010024,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010024,
 					HpPercent: 0,
@@ -2909,18 +2486,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010040,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010040,
 					HpPercent: 0,
 				},
 			},
@@ -2945,18 +2510,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010021,
 					HpPercent: 0,
@@ -2985,14 +2538,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010022,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010022,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010022,
 					HpPercent: 0,
 				},
 			},
@@ -3017,18 +2562,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010016,
 					HpPercent: 0,
@@ -3057,14 +2590,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010025,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010025,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010025,
 					HpPercent: 0,
 				},
 			},
@@ -3089,14 +2614,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010027,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010027,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010027,
 					HpPercent: 0,
@@ -3125,18 +2642,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -3161,18 +2666,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010017,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010037,
 					HpPercent: 0,
@@ -3201,10 +2694,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -3229,18 +2718,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010013,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010033,
 					HpPercent: 0,
@@ -3269,10 +2746,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010013,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010013,
 					HpPercent: 0,
 				},
 			},
@@ -3297,18 +2770,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010040,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010040,
 					HpPercent: 0,
@@ -3337,10 +2798,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -3365,14 +2822,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -3401,14 +2850,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -3434,19 +2875,59 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010050,
+					HpPercent: 0,
+				},
+			},
+		},
+	},
+	22140101: {
+		Id:              22140101,
+		Key:             "fisherofhiddendepths",
+		NameTextHashMap: 3600635800,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  40.752,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.1,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 0,
+			HpDrop: []*MonsterHPDrop{
+				{
+					DropId:    22010020,
+					HpPercent: 0,
+				},
+			},
+		},
+	},
+	22150101: {
+		Id:              22150101,
+		Key:             "lordofthehiddendepthswhispererofnightmares",
+		NameTextHashMap: 1197453696,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  366.768,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.1,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 1,
+			HpDrop: []*MonsterHPDrop{
+				{
+					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -3471,10 +2952,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010012,
 					HpPercent: 0,
@@ -3503,10 +2980,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010013,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010013,
 					HpPercent: 0,
 				},
 			},
@@ -3531,10 +3004,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010015,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010015,
 					HpPercent: 0,
@@ -3563,10 +3032,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -3591,10 +3056,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010016,
 					HpPercent: 0,
@@ -3623,10 +3084,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010014,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010014,
 					HpPercent: 0,
 				},
 			},
@@ -3651,18 +3108,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010040,
 					HpPercent: 0,
@@ -3691,14 +3136,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010015,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010015,
 					HpPercent: 0,
 				},
 			},
@@ -3723,14 +3160,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010012,
 					HpPercent: 0,
@@ -3758,18 +3187,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010040,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010030,
 					HpPercent: 0,
 				},
@@ -3795,18 +3212,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010040,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -3834,18 +3239,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010040,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010040,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010030,
 					HpPercent: 0,
 				},
@@ -3871,14 +3264,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -3906,14 +3291,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -3939,14 +3316,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -3974,14 +3343,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -4007,14 +3368,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -4043,14 +3396,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -4075,14 +3420,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -4110,14 +3447,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -4144,14 +3473,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -4177,18 +3498,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010050,
 					HpPercent: 0,
@@ -4217,18 +3526,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -4253,18 +3550,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -4293,18 +3578,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -4329,14 +3602,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -4365,10 +3630,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -4393,10 +3654,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -4444,10 +3701,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -4518,10 +3771,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -4546,18 +3795,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -4585,18 +3822,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010030,
 					HpPercent: 0,
 				},
@@ -4622,18 +3847,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -4662,10 +3875,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -4690,18 +3899,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -4729,18 +3926,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010050,
 					HpPercent: 0,
 				},
@@ -4766,18 +3951,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010050,
 					HpPercent: 0,
@@ -4806,14 +3979,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -4840,14 +4005,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010011,
 					HpPercent: 0,
 				},
 			},
@@ -4872,18 +4029,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -4933,18 +4078,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -4969,18 +4102,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -5365,14 +4486,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010016,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010046,
 					HpPercent: 0,
 				},
@@ -5399,14 +4512,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010014,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010044,
 					HpPercent: 0,
 				},
@@ -5432,14 +4537,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010041,
 					HpPercent: 0,
@@ -5468,14 +4565,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010026,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010026,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010026,
 					HpPercent: 0,
 				},
 			},
@@ -5500,14 +4589,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010022,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010022,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010022,
 					HpPercent: 0,
@@ -5536,14 +4617,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010024,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010024,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010024,
 					HpPercent: 0,
 				},
 			},
@@ -5568,14 +4641,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010027,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010027,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010027,
 					HpPercent: 0,
@@ -5604,14 +4669,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010025,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010025,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010025,
 					HpPercent: 0,
 				},
 			},
@@ -5636,14 +4693,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010021,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010021,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010021,
 					HpPercent: 0,
@@ -5672,14 +4721,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -5704,18 +4745,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010041,
 					HpPercent: 0,
@@ -5744,14 +4773,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -5776,14 +4797,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -5811,14 +4824,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010030,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -5844,18 +4849,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010026,
 					HpPercent: 0,
@@ -5883,18 +4876,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010015,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010025,
 					HpPercent: 0,
 				},
@@ -5921,18 +4902,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010046,
 					HpPercent: 0,
 				},
@@ -5958,18 +4927,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010015,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010045,
 					HpPercent: 0,
@@ -6154,14 +5111,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010011,
 					HpPercent: 0,
 				},
 			},
@@ -6209,14 +5158,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010016,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010016,
 					HpPercent: 0,
 				},
 			},
@@ -6241,14 +5182,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010014,
 					HpPercent: 0,
@@ -6277,10 +5210,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -6305,10 +5234,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -6337,10 +5262,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -6365,10 +5286,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -6397,10 +5314,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -6425,14 +5338,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -6461,14 +5366,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -6493,14 +5390,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -6529,18 +5418,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -6565,14 +5442,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -6601,14 +5470,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -6633,14 +5494,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -6668,14 +5521,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -6701,14 +5546,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -6736,14 +5573,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -6769,18 +5598,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -6808,18 +5625,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010050,
 					HpPercent: 0,
 				},
@@ -6845,14 +5650,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -6881,14 +5678,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -6913,14 +5702,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010020,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010020,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -6948,18 +5729,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -6985,18 +5754,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -7024,18 +5781,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -7062,14 +5807,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -7095,18 +5832,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -7135,10 +5860,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -7163,14 +5884,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -7199,10 +5912,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -7227,18 +5936,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -7266,18 +5963,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010050,
 					HpPercent: 0,
 				},
@@ -7304,18 +5989,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -7341,14 +6014,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010020,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010020,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -7377,10 +6042,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -7405,10 +6066,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -7437,10 +6094,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -7465,18 +6118,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -7504,18 +6145,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010040,
 					HpPercent: 0,
 				},
@@ -7541,18 +6170,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010040,
 					HpPercent: 0,
@@ -7580,18 +6197,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010040,
 					HpPercent: 0,
 				},
@@ -7617,18 +6222,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010040,
 					HpPercent: 0,
@@ -7677,18 +6270,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -7715,18 +6296,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010020,
 					HpPercent: 0,
 				},
@@ -7752,18 +6321,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010020,
 					HpPercent: 0,
@@ -7792,10 +6349,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -7820,10 +6373,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010015,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010015,
 					HpPercent: 0,
@@ -7852,10 +6401,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010011,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010011,
 					HpPercent: 0,
 				},
 			},
@@ -7880,10 +6425,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010013,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010013,
 					HpPercent: 0,
@@ -7912,10 +6453,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -7940,10 +6477,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -7972,10 +6505,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8000,10 +6529,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8032,10 +6557,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8060,18 +6581,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010022,
 					HpPercent: 0,
@@ -8099,18 +6608,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010026,
 					HpPercent: 0,
 				},
@@ -8136,18 +6633,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010024,
 					HpPercent: 0,
@@ -8176,18 +6661,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -8212,18 +6685,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010015,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010015,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010015,
 					HpPercent: 0,
@@ -8252,18 +6713,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010011,
 					HpPercent: 0,
 				},
 			},
@@ -8288,18 +6737,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010013,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010013,
 					HpPercent: 0,
@@ -8328,10 +6765,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8356,10 +6789,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8388,10 +6817,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8416,10 +6841,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8448,10 +6869,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8476,10 +6893,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8508,10 +6921,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8536,10 +6945,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8568,10 +6973,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8596,10 +6997,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8628,10 +7025,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8656,10 +7049,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8688,10 +7077,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8716,10 +7101,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8748,10 +7129,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8776,10 +7153,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8808,10 +7181,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010010,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010010,
 					HpPercent: 0,
 				},
 			},
@@ -8836,10 +7205,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -8888,14 +7253,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010017,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010027,
 					HpPercent: 0,
 				},
@@ -8921,14 +7278,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010017,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010027,
 					HpPercent: 0,
@@ -8956,14 +7305,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010013,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010023,
 					HpPercent: 0,
 				},
@@ -8989,14 +7330,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010013,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010023,
 					HpPercent: 0,
@@ -9024,14 +7357,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010022,
 					HpPercent: 0,
 				},
@@ -9057,14 +7382,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010022,
 					HpPercent: 0,
@@ -9092,14 +7409,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010021,
 					HpPercent: 0,
 				},
@@ -9125,14 +7434,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010021,
 					HpPercent: 0,
@@ -9160,14 +7461,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010016,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010026,
 					HpPercent: 0,
 				},
@@ -9193,14 +7486,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010026,
 					HpPercent: 0,
@@ -9228,14 +7513,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010014,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010024,
 					HpPercent: 0,
 				},
@@ -9261,14 +7538,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010024,
 					HpPercent: 0,
@@ -9296,18 +7565,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010036,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010036,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010036,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010026,
 					HpPercent: 0,
 				},
@@ -9334,19 +7591,33 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010014,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010044,
+					HpPercent: 0,
+				},
+			},
+		},
+	},
+	25600101: {
+		Id:              25600101,
+		Key:             "battlehardenedelitetreasurehoarder",
+		NameTextHashMap: 2110752048,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  1412.736,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.1,
+				RockResist:     0.1,
+				PhysicalResist: -0.2,
+			},
+			FreezeResist: 0,
+			HpDrop: []*MonsterHPDrop{
+				{
+					DropId:    22010050,
 					HpPercent: 0,
 				},
 			},
@@ -9371,18 +7642,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010036,
 					HpPercent: 0,
@@ -9410,18 +7669,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010031,
 					HpPercent: 0,
 				},
@@ -9447,18 +7694,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010034,
 					HpPercent: 0,
@@ -9487,18 +7722,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010036,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010036,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010036,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010036,
 					HpPercent: 0,
 				},
 			},
@@ -9523,18 +7746,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010031,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010031,
 					HpPercent: 0,
@@ -9563,18 +7774,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010034,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010034,
 					HpPercent: 0,
 				},
 			},
@@ -9599,14 +7798,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010017,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010037,
 					HpPercent: 0,
@@ -9634,14 +7825,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010017,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010037,
 					HpPercent: 0,
 				},
@@ -9667,18 +7850,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010041,
 					HpPercent: 0,
@@ -9706,18 +7877,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010046,
 					HpPercent: 0,
 				},
@@ -9743,14 +7902,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010017,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010037,
 					HpPercent: 0,
@@ -9778,18 +7929,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010022,
 					HpPercent: 0,
 				},
@@ -9815,18 +7954,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010036,
 					HpPercent: 0,
@@ -9854,18 +7981,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010014,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010034,
 					HpPercent: 0,
 				},
@@ -9891,18 +8006,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010042,
 					HpPercent: 0,
@@ -9931,10 +8034,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010014,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010014,
 					HpPercent: 0,
 				},
 			},
@@ -9961,10 +8060,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010012,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010012,
 					HpPercent: 0,
 				},
 			},
@@ -9989,10 +8084,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010016,
 					HpPercent: 0,
@@ -10302,14 +8393,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010022,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010022,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010022,
 					HpPercent: 0,
 				},
 			},
@@ -10334,14 +8417,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010023,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010023,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010023,
 					HpPercent: 0,
@@ -10370,14 +8445,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010021,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010021,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010021,
 					HpPercent: 0,
 				},
 			},
@@ -10402,14 +8469,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010024,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010024,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010024,
 					HpPercent: 0,
@@ -10438,14 +8497,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010025,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010025,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010025,
 					HpPercent: 0,
 				},
 			},
@@ -10470,14 +8521,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010033,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010033,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010043,
 					HpPercent: 0,
@@ -10506,10 +8549,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010013,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010013,
 					HpPercent: 0,
 				},
 			},
@@ -10534,10 +8573,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010016,
 					HpPercent: 0,
@@ -10566,10 +8601,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010012,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010012,
 					HpPercent: 0,
 				},
 			},
@@ -10594,10 +8625,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010017,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010017,
 					HpPercent: 0,
@@ -10626,18 +8653,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010035,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010035,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010035,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010035,
 					HpPercent: 0,
 				},
 			},
@@ -10664,18 +8679,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -10700,18 +8703,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -11081,18 +9072,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010031,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010031,
 					HpPercent: 0,
 				},
 			},
@@ -11117,18 +9096,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010034,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010034,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010034,
 					HpPercent: 0,
@@ -11157,18 +9124,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
-				{
-					DropId:    22010030,
 					HpPercent: 0,
 				},
 			},
@@ -11193,18 +9148,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -11259,14 +9202,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -11317,14 +9252,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010012,
 					HpPercent: 0,
@@ -11379,14 +9306,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010013,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010013,
 					HpPercent: 0,
 				},
 			},
@@ -11411,14 +9330,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010033,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010033,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010033,
 					HpPercent: 0,
@@ -11473,14 +9384,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010011,
 					HpPercent: 0,
 				},
 			},
@@ -11505,18 +9408,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010031,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010031,
 					HpPercent: 0,
@@ -11571,14 +9462,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010016,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010016,
 					HpPercent: 0,
 				},
 			},
@@ -11603,18 +9486,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010046,
 					HpPercent: 0,
@@ -11669,14 +9540,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010014,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010014,
 					HpPercent: 0,
 				},
 			},
@@ -11701,18 +9564,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010041,
 					HpPercent: 0,
@@ -11740,10 +9591,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010017,
-					HpPercent: 0.6,
-				},
-				{
 					DropId:    22010027,
 					HpPercent: 0,
 				},
@@ -11769,18 +9616,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010017,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010017,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010047,
 					HpPercent: 0,
@@ -11808,10 +9643,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010012,
-					HpPercent: 0.6,
-				},
-				{
 					DropId:    22010022,
 					HpPercent: 0,
 				},
@@ -11837,18 +9668,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010012,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010042,
 					HpPercent: 0,
@@ -11876,10 +9695,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010013,
-					HpPercent: 0.6,
-				},
-				{
 					DropId:    22010023,
 					HpPercent: 0,
 				},
@@ -11905,18 +9720,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010013,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010013,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010043,
 					HpPercent: 0,
@@ -11944,18 +9747,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010011,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010041,
 					HpPercent: 0,
 				},
@@ -11981,10 +9772,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010016,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010026,
 					HpPercent: 0,
@@ -12012,18 +9799,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010016,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010016,
-					HpPercent: 0.25,
-				},
-				{
 					DropId:    22010046,
 					HpPercent: 0,
 				},
@@ -12049,10 +9824,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010021,
 					HpPercent: 0,
@@ -12080,10 +9851,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010014,
-					HpPercent: 0.6,
-				},
-				{
 					DropId:    22010024,
 					HpPercent: 0,
 				},
@@ -12109,18 +9876,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010014,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010014,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010044,
 					HpPercent: 0,
@@ -12149,14 +9904,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010011,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010011,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010011,
 					HpPercent: 0,
 				},
 			},
@@ -12181,14 +9928,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010010,
 					HpPercent: 0,
@@ -12216,14 +9955,6 @@ var EnemyMap = map[int]*MonsterData{
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
 				{
-					DropId:    22010031,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010031,
-					HpPercent: 0.33,
-				},
-				{
 					DropId:    22010021,
 					HpPercent: 0,
 				},
@@ -12249,18 +9980,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010010,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010010,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010050,
 					HpPercent: 0,
@@ -12289,14 +10008,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010021,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010021,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010021,
 					HpPercent: 0,
 				},
 			},
@@ -12321,14 +10032,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010024,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010024,
-					HpPercent: 0.33,
-				},
 				{
 					DropId:    22010024,
 					HpPercent: 0,
@@ -12357,14 +10060,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010025,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010025,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010025,
 					HpPercent: 0,
 				},
 			},
@@ -12391,17 +10086,56 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010022,
-					HpPercent: 0.66,
-				},
-				{
-					DropId:    22010022,
-					HpPercent: 0.33,
-				},
-				{
-					DropId:    22010022,
 					HpPercent: 0,
 				},
 			},
+		},
+	},
+	26300401: {
+		Id:              26300401,
+		Key:             "radiantglacialwolf",
+		NameTextHashMap: 3634713536,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  149.424,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.5,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 0,
+			HpDrop: []*MonsterHPDrop{
+				{
+					DropId:    22010026,
+					HpPercent: 0,
+				},
+			},
+		},
+	},
+	26300501: {
+		Id:              26300501,
+		Key:             "battlehardenedradiantglacialwolf",
+		NameTextHashMap: 3276127112,
+		BaseStats: &MonsterStatsData{
+			BaseHp:  1127.472,
+			HpCurve: MonsterCurveType_GROW_CURVE_HP_2,
+			Resist: &MonsterResistData{
+				FireResist:     0.1,
+				GrassResist:    0.1,
+				WaterResist:    0.1,
+				ElectricResist: 0.1,
+				WindResist:     0.1,
+				IceResist:      0.5,
+				RockResist:     0.1,
+				PhysicalResist: 0.1,
+			},
+			FreezeResist: 0,
+			HpDrop:       []*MonsterHPDrop{},
 		},
 	},
 	26301101: {
@@ -12423,18 +10157,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 1,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010030,
-					HpPercent: 0.75,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.5,
-				},
-				{
-					DropId:    22010030,
-					HpPercent: 0.25,
-				},
 				{
 					DropId:    22010030,
 					HpPercent: 0,
@@ -12463,10 +10185,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010013,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010013,
 					HpPercent: 0,
 				},
 			},
@@ -12491,10 +10209,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010012,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010012,
 					HpPercent: 0,
@@ -12523,10 +10237,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010017,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010017,
 					HpPercent: 0,
 				},
 			},
@@ -12551,10 +10261,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010015,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010015,
 					HpPercent: 0,
@@ -12583,10 +10289,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010016,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010016,
 					HpPercent: 0,
 				},
 			},
@@ -12613,10 +10315,6 @@ var EnemyMap = map[int]*MonsterData{
 			HpDrop: []*MonsterHPDrop{
 				{
 					DropId:    22010014,
-					HpPercent: 0.6,
-				},
-				{
-					DropId:    22010014,
 					HpPercent: 0,
 				},
 			},
@@ -12641,10 +10339,6 @@ var EnemyMap = map[int]*MonsterData{
 			},
 			FreezeResist: 0,
 			HpDrop: []*MonsterHPDrop{
-				{
-					DropId:    22010011,
-					HpPercent: 0.6,
-				},
 				{
 					DropId:    22010011,
 					HpPercent: 0,

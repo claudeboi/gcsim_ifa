@@ -1,5 +1,5 @@
 ---
-title: ""Infinitesimal""
+title: "Fisher of Hidden Depths"
 ---
 
 import HPTable from "@site/src/components/HP/HPTable";
@@ -9,16 +9,16 @@ import ParticleTable from "@site/src/components/Particle/ParticleTable";
 
 ## HP Data
 
-<HPTable item_key="infinitesimal" data_src="enemy" />
+<HPTable item_key="fisherofhiddendepths" data_src="enemy" />
 
 ## Names
 
-<NamesList item_key="infinitesimal" data_src="enemy" />
+<NamesList item_key="fisherofhiddendepths" data_src="enemy" />
 
 ## Resist Data
 
-<ResistTable item_key="infinitesimal" data_src="enemy" />
+<ResistTable item_key="fisherofhiddendepths" data_src="enemy" />
 
 ## Particle Data
 
-<ParticleTable item_key="infinitesimal" data_src="enemy" />
+<ParticleTable item_key="fisherofhiddendepths" data_src="enemy" />
